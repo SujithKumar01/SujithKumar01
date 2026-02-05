@@ -31,7 +31,7 @@ All my projects are open-source and available here:
   <a href="https://linkedin.com/in/thangella-sujith-kumar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.topcoder.com/members/13089](https://profiles.topcoder.com/SujithKumar01" target="_blank">
+  <a href="https://profiles.topcoder.com/SujithKumar01" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
   </a>
 </p>
